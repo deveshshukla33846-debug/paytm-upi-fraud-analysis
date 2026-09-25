@@ -24,10 +24,9 @@ SQL (MySQL), Python (Pandas, SQLAlchemy), Power BI (DAX)
 ## Screenshots
 
 
-![Overview] (power%20bi/page1_overview.png)
+![Overview](power%20bi/page1_overview.png)
 
-![fraud analysis] (power%20bi/page2_Fraud_analysis.png)
+![Fraud analysis](power%20bi/page2_Fraud_analysis.png)
 
 
 
-![Fraud Analysis](project_upi/power%20bi/page2_Fraud_analysis.png)
